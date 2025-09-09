@@ -1,28 +1,52 @@
-🚧 Road Accident Analysis Dashboard
-📝 Project Overview
+# 🚧 Road Accident Analysis Dashboard  
 
-This project analyzes road accident data to uncover patterns and risk factors. The dashboard highlights monthly and yearly trends, accident severity, road and lighting conditions, and vehicle types. The goal is to provide actionable insights that support road safety measures and policy decisions.
+![Dashboard Preview](./images/dashboard_preview.png) <!-- Replace with actual screenshot path -->
 
-📁 Dataset
+---
 
-Source: UK Road Accident Records
+## 📝 Project Overview  
+This Power BI project analyzes road accident data from the UK to identify patterns and risk factors.  
+The dashboard provides insights into:  
 
-Period Covered: 2021–2022
+- Accident **frequency by month and year**  
+- **Severity levels** of accidents  
+- Impact of **lighting, surface, and road conditions**  
+- Breakdown by **vehicle type** and **region**  
 
-Key Fields: Date, Time, Casualties, Vehicle Type, Road Type, Surface Condition, Light Condition, Police Force Region
+The goal is to support better traffic safety decisions and interventions.  
 
-🔧 Tools & Technologies
+---
 
-Power BI (Data Cleaning, DAX Measures, Interactive Visualizations)
+## 📁 Dataset  
+- **Source:** UK Road Accident Records  
+- **Time Range:** 2021–2022  
+- **Key Columns:**  
+  - Date & Time  
+  - Number of Casualties  
+  - Vehicle Type  
+  - Road Type & Surface Condition  
+  - Lighting Condition  
+  - Police Force Region  
 
-SQL & Excel (Pre-processing and validation)
+---
 
-🚀 Key Insights
+## 🔧 Tools & Technologies  
+- **Power BI** – Data cleaning, modeling, DAX measures, and visualization  
+- **SQL / Excel** – Pre-processing and validation  
 
-Built interactive dashboards with drill-through and slicers for real-time exploration
+---
 
-Identified peak accident months and high-risk conditions
+## 🚀 Features & Insights  
+- ✅ Interactive dashboards with **drill-through and slicers**  
+- ✅ KPIs tracking **casualties, severity rates, and accident trends**  
+- ✅ Visuals showing the effect of **lighting, road surface, and vehicle type**  
+- ✅ Monthly and yearly accident distribution charts  
 
-Visualized the effect of surface, lighting, and vehicle type on accident severity
+---
 
-Designed KPIs to track casualties, severity rates, and monthly accident distribution
+## 📊 Dashboard Pages  
+1. **Overview Dashboard** – High-level KPIs and trend charts  
+2. **Accident Severity** – Breakdown of casualties by severity levels  
+3. **Conditions Analysis** – Lighting, road, and surface conditions  
+4. **Vehicle Insights** – Accident patterns by vehicle type  
+
