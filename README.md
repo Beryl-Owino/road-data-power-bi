@@ -1,6 +1,6 @@
 # 🚧 Road Accident Analysis Dashboard  
 
-![Dashboard Preview](Road_accidents_power_bi.png)
+![Dashboard Preview](Road_accidents_ power _bi.PNG)
  <!-- Replace with actual screenshot path -->
 
 ---
